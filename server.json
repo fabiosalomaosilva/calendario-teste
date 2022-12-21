@@ -1,0 +1,40 @@
+{
+    "calendar": [
+        {
+            "id": 1,
+            "date": "2022-22-12T17:00:00",
+            "content": "Criar a API 02",
+            "color": "#f00000"
+        },
+        {
+            "id": 2,
+            "date": "2022-22-12T17:01:00",
+            "content": "Criar a API 03",
+            "color": "#26a69a"
+        },
+        {
+            "id": 3,
+            "date": "2022-22-12T17:02:00",
+            "content": "Criar a API 04",
+            "color": "#9fa8da"
+        },
+        {
+            "id": 4,
+            "date": "2022-22-12T17:03:00",
+            "content": "Criar a API 05",
+            "color": "#ff7043"
+        },
+        {
+            "id": 5,
+            "date": "2022-22-12T17:04:00",
+            "content": "Criar a API 06",
+            "color": "#a1887f"
+        },
+        {
+            "id": 6,
+            "date": "2022-22-12T17:05:00",
+            "content": "Criar a API 07",
+            "color": "#ce93d8"
+        }
+    ]
+}
