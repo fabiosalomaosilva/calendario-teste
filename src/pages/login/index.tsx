@@ -38,8 +38,8 @@ export function Login() {
   const loginGoogle = async () => {
     try {
       const googleProvider = new GoogleAuthProvider();
-      signInWithPopup(auth, googleProvider).then(() => {});
-      
+      signInWithPopup(auth, googleProvider).then(() => { });
+      auth
         .signInWithEmailAndPassword(auth, email, password)
         .then((userCredential) => {
           // Signed in
